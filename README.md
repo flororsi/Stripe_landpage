@@ -1,5 +1,5 @@
 # Stripe_landpage
 
-## Copy of Stripe landpage
+_Copy of Stripe landpage_
 
 Use of React Hooks
